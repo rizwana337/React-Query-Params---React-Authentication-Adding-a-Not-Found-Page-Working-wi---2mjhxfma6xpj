@@ -9,7 +9,7 @@ const App = () => {
 
   return (
     <div className="details">
-      Employee {id} named {name} works as {designation}.
+      Employee {id} named {name} works as {designation}
     </div>
   );
 };
